@@ -95,4 +95,5 @@ git checkout $SRC_BRANCH
 
 echo "Deployed successfully!"
 
-exit 0
+xterm -hold -e ls
+#exit 0
