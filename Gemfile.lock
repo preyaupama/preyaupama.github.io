@@ -272,8 +272,9 @@ DEPENDENCIES
   jekyll-email-protect
   jekyll-paginate
   jekyll-scholar
+  jekyll-seo-tag
   jemoji
   unicode_utils
 
 BUNDLED WITH
-   2.0.2
+   2.1.4
